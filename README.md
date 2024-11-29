@@ -1,2 +1,2 @@
 # python
-exercise list 
+Lista de exercicios 
